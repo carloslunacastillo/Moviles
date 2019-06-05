@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [io.realm:realm-android-library-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.9.1.aar/20496bbdc62ee0de66d53ba5f827d27c/AndroidManifest.xml:2:1-13:12
+MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.9.1.aar/aa48e48660e32f230349ae385aced626/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:design:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/d52906e95324c6600cbaa5477c0ab7b3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/4868369d70b8962923e2771ea5a9a710/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6974fee092a3a061b1a7983ba94f946b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/a49735ac8bb77a1224ebdedd26e769dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/c4891380217ebb36ca5b53f2757522be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/207f93c27599bb9b36d8905f14561819/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/53fb8e778d711dc265a3741ba77996d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/548eae9957d75dd074e9696010e791bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/2b117be7bd8f4820fbda16b3da294aba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/71f8321c300db952a553ac0ac3ef7733/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/d7d8d3d097423f3f86c808da9b893be8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/37cf75a14fdd80704bb902c68fb887a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/c4ae6adc3c54b89711a8f39c68b479de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/9d39686e1d9a10c84233db2a383568df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/ad78b8661983f3143f00742121227f52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/d9adf5bf3833b57f3ea2fb4a113829e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/9d2442a7013b8f7af665e73d0faeb9c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/93779909d4df7de97320c3e6e614b509/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/c985c5248bc46831f3c3a6a6325702e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/eecc36ca7bfe867b775229249c96f87c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/04c33bbeddc7b9bfdae5811f8c02be2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/585984211cff4a557934832feb623002/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e8f335d90a1fbd521c9aff7a2cdd8da1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/fc435db6daf344842dd8ea4614b39f8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/14b8d62323d7c05f89cd2e6117869984/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/844fd2ded26b1ed0825402d1a7178b17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/737fbcbe16244a4a9f102ae28875501e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/2865cf60621f3958536907861a5ece88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/ccc28bc9dd5130a4248b090d3a8b6316/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c48faa9e18d0911eea673941fe4404e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/63068a19d2f950ae37e4504954a638ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6b791f3ffc7c5dd74eb97a57ccf7392a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/43fc911f0152315e6b5f377ae2c2aec5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:3:11-50
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:design:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/d52906e95324c6600cbaa5477c0ab7b3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/d52906e95324c6600cbaa5477c0ab7b3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6974fee092a3a061b1a7983ba94f946b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6974fee092a3a061b1a7983ba94f946b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/585984211cff4a557934832feb623002/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/585984211cff4a557934832feb623002/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e8f335d90a1fbd521c9aff7a2cdd8da1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e8f335d90a1fbd521c9aff7a2cdd8da1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/585984211cff4a557934832feb623002/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:14:13-39
+	android:label
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:12:13-45
+	android:roundIcon
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:13:13-58
+	android:icon
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:11:13-47
+	android:allowBackup
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:15:13-44
+activity#itlapps.juanjoseesva.contacts.activities.MainActivity
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:16:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:20:27-74
+activity#itlapps.juanjoseesva.contacts.activities.AddContactActivity
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:23:9-120
+	android:parentActivityName
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:23:65-118
+	android:name
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:23:19-64
+activity#itlapps.juanjoseesva.contacts.activities.EditContactActivity
+ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:24:9-122
+	android:parentActivityName
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:24:66-119
+	android:name
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml:24:19-65
+uses-sdk
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.9.1.aar/20496bbdc62ee0de66d53ba5f827d27c/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.9.1.aar/20496bbdc62ee0de66d53ba5f827d27c/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.9.1.aar/aa48e48660e32f230349ae385aced626/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.9.1.aar/aa48e48660e32f230349ae385aced626/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/d52906e95324c6600cbaa5477c0ab7b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/d52906e95324c6600cbaa5477c0ab7b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/4868369d70b8962923e2771ea5a9a710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/4868369d70b8962923e2771ea5a9a710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6974fee092a3a061b1a7983ba94f946b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6974fee092a3a061b1a7983ba94f946b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/a49735ac8bb77a1224ebdedd26e769dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/a49735ac8bb77a1224ebdedd26e769dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/c4891380217ebb36ca5b53f2757522be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/c4891380217ebb36ca5b53f2757522be/AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/207f93c27599bb9b36d8905f14561819/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/207f93c27599bb9b36d8905f14561819/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/53fb8e778d711dc265a3741ba77996d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/53fb8e778d711dc265a3741ba77996d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/548eae9957d75dd074e9696010e791bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/548eae9957d75dd074e9696010e791bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/2b117be7bd8f4820fbda16b3da294aba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/2b117be7bd8f4820fbda16b3da294aba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/71f8321c300db952a553ac0ac3ef7733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/71f8321c300db952a553ac0ac3ef7733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/d7d8d3d097423f3f86c808da9b893be8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/d7d8d3d097423f3f86c808da9b893be8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/37cf75a14fdd80704bb902c68fb887a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/37cf75a14fdd80704bb902c68fb887a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/c4ae6adc3c54b89711a8f39c68b479de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/c4ae6adc3c54b89711a8f39c68b479de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/9d39686e1d9a10c84233db2a383568df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/9d39686e1d9a10c84233db2a383568df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/ad78b8661983f3143f00742121227f52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/ad78b8661983f3143f00742121227f52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/d9adf5bf3833b57f3ea2fb4a113829e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/d9adf5bf3833b57f3ea2fb4a113829e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/9d2442a7013b8f7af665e73d0faeb9c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/9d2442a7013b8f7af665e73d0faeb9c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/93779909d4df7de97320c3e6e614b509/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/93779909d4df7de97320c3e6e614b509/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/c985c5248bc46831f3c3a6a6325702e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/c985c5248bc46831f3c3a6a6325702e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/eecc36ca7bfe867b775229249c96f87c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/eecc36ca7bfe867b775229249c96f87c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/04c33bbeddc7b9bfdae5811f8c02be2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/04c33bbeddc7b9bfdae5811f8c02be2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/585984211cff4a557934832feb623002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/585984211cff4a557934832feb623002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e8f335d90a1fbd521c9aff7a2cdd8da1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e8f335d90a1fbd521c9aff7a2cdd8da1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/fc435db6daf344842dd8ea4614b39f8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/fc435db6daf344842dd8ea4614b39f8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/14b8d62323d7c05f89cd2e6117869984/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/14b8d62323d7c05f89cd2e6117869984/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/844fd2ded26b1ed0825402d1a7178b17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/844fd2ded26b1ed0825402d1a7178b17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/737fbcbe16244a4a9f102ae28875501e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/737fbcbe16244a4a9f102ae28875501e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/2865cf60621f3958536907861a5ece88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/2865cf60621f3958536907861a5ece88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/ccc28bc9dd5130a4248b090d3a8b6316/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/ccc28bc9dd5130a4248b090d3a8b6316/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c48faa9e18d0911eea673941fe4404e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c48faa9e18d0911eea673941fe4404e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/63068a19d2f950ae37e4504954a638ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/63068a19d2f950ae37e4504954a638ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6b791f3ffc7c5dd74eb97a57ccf7392a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6b791f3ffc7c5dd74eb97a57ccf7392a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/43fc911f0152315e6b5f377ae2c2aec5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/43fc911f0152315e6b5f377ae2c2aec5/AndroidManifest.xml:20:5-44
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+		ADDED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.realm:realm-android-library-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.9.1.aar/20496bbdc62ee0de66d53ba5f827d27c/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.9.1.aar/20496bbdc62ee0de66d53ba5f827d27c/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [io.realm:realm-android-library-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.9.1.aar/20496bbdc62ee0de66d53ba5f827d27c/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:5.9.1] /home/stratselementary/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.9.1.aar/20496bbdc62ee0de66d53ba5f827d27c/AndroidManifest.xml:11:22-64
