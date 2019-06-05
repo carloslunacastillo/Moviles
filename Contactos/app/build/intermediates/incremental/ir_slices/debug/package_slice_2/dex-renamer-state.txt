@@ -1,4 +1,0 @@
-#Thu Apr 04 22:44:56 CST 2019
-base.0=/home/stratselementary/Documentos/itl/Semestre 8/El rudo/contacts/app/build/intermediates/transforms/dexMerger/debug/2
-path.0=classes.dex
-renamed.0=classes.dex
